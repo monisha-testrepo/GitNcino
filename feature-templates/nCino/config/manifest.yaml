@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01rMpE1J-BT:
+          path: dataset/01rMpE1J-BT
+          prefix: solarch
+          standardFeature: false
+          versions:
+            Spring:
+              modifiedDate: '2022-07-07 14:58:58'

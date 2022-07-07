@@ -1,0 +1,15 @@
+{
+  "prefix": "solarch",
+  "packageDirectories": {
+    "Spring": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      },
+      "data": {
+        "exclude": {}
+      }
+    }
+  }
+}

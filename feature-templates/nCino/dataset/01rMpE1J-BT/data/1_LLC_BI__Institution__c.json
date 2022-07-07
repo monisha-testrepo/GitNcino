@@ -1,0 +1,47 @@
+{
+  "name": "1_LLC_BI__Institution__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "ConnectionReceivedId",
+    "ConnectionSentId",
+    "LLC_BI__Brand__c",
+    "LLC_BI__Community_Extension__c",
+    "LLC_BI__Community_Name__c",
+    "LLC_BI__Community_Network_ID__c",
+    "LLC_BI__Look_Up_Key__c",
+    "LLC_BI__LookupKey__c",
+    "LLC_BI__Permission_Set__c",
+    "AutorabitExtId__c"
+  ],
+  "records": {
+    "1": {
+      "AutorabitExtId__c": "a4F4W0000021c2gUAA",
+      "ConnectionReceivedId": "",
+      "ConnectionSentId": "",
+      "CreatedById": "0054W00000B6yK8QAJ",
+      "CreatedDate": "2020-10-14T08:50:55.000Z",
+      "Id": "a4F4W000001P1aqUAC",
+      "IsDeleted": "",
+      "LLC_BI__Brand__c": "a1u4W0000041bjnQAA",
+      "LLC_BI__Community_Extension__c": "CustomerPortal",
+      "LLC_BI__Community_Name__c": "Customer Portal",
+      "LLC_BI__Community_Network_ID__c": "",
+      "LLC_BI__Look_Up_Key__c": "34652546354g5",
+      "LLC_BI__LookupKey__c": "",
+      "LLC_BI__Permission_Set__c": "nSightFinancial_Community",
+      "LastModifiedById": "0054W00000B6yK8QAJ",
+      "LastModifiedDate": "2022-06-24T10:32:12.000Z",
+      "Name": "nSight Financial",
+      "OwnerId": "0054W00000B6yK8QAJ",
+      "SystemModstamp": ""
+    }
+  }
+}

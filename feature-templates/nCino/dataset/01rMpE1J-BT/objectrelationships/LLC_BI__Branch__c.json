@@ -1,0 +1,39 @@
+[
+  {
+    "name": "nFORCE__Brand__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Institution__c": "LLC_BI__Brand__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "createdbyid",
+      "lastmodifiedbyid",
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Institution__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Branch__c": "LLC_BI__Institution__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "createdbyid",
+      "lastmodifiedbyid",
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Branch__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "createdbyid",
+      "lastmodifiedbyid",
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  }
+]
